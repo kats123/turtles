@@ -1,6 +1,4 @@
-therine Sweeney
-#December 25th
-#04.02
+
 
 import turtle
 def main():
